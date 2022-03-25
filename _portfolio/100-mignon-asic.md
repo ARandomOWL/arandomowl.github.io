@@ -8,6 +8,8 @@ Mignon is the first ASIC implementation of the [Tsetlin Machine](https://github.
 Mignon implements a small classifier on 65nm technology.
 I performed the entire tapeout from specification and RTL, to producing the
 final GDS for manufacture.
+Mignon is [due to appear](https://twitter.com/RishadShafik/status/1498964827754094593) at the [Norwegian Technical
+Museum](https://www.tekniskmuseum.no/) in the near future.
 
 The packaged ASICs.
 ![Main Image](/images/projects/mignon/ics.jpg)
