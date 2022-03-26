@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -37,6 +37,7 @@ Talks
   {% endfor %}</ul>
   
 {% comment %}
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
