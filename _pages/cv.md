@@ -11,7 +11,7 @@ redirect_from:
 
 Work
 ======
-Research Fellow, Centre for Electronic Frontiers, University of Southampton
+Research Fellow, [Centre for Electronics Frontiers](https://cef.soton.ac.uk/), University of Southampton
 
 Previously:
 * Research Assistant, [Microsystems Group](https://www.ncl.ac.uk/engineering/research/electrical-electronic-engineering/u-systems/), Newcastle University
