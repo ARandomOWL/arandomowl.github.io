@@ -15,7 +15,7 @@ Research Fellow, Centre for Electronic Frontiers, University of Southampton
 
 Previously:
 * Research Assistant, [Microsystems Group](https://www.ncl.ac.uk/engineering/research/electrical-electronic-engineering/u-systems/), Newcastle University
-* Research Intern, ARM
+* Research Intern, Arm
   
 Education
 ======
